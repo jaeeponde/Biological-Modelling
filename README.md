@@ -1,4 +1,5 @@
 Played around with modelling biological phenomena using differential equations
+
 Central Dogma :
  - uses the ODE for transcription and translation
  - We can observe that protein synthesis starts slightly after mRNA synthesis
